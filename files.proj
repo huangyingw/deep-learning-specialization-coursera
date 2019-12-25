@@ -1,5 +1,6 @@
 "./.git/config"
 "./.git/info/exclude"
+"./.gitattributes"
 "./.gitconfig"
 "./.gitignore"
 "./.tests/nbrun.py"
